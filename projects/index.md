@@ -5,22 +5,9 @@ layout: default
 
 # 🧩 Projects
 
-Highlighted repositories, tools, and research.
+Here are my highlighted tools, research, and repos.  
+(Links to detail pages will be added later.)
 
-## Red-Team PowerShell Toolkit
-Modular scripts for enumeration, lateral movement, and OPSEC-friendly execution (lab-only).
-
-- Code: https://github.com/ulikenet/rt-pwsh-toolkit
-- Tags: Red Team, PowerShell, OPSEC
-
-## Cloud Guardrails IaC
-Terraform + OPA policies enforcing least privilege and secure defaults for multi-cloud.
-
-- Code: https://github.com/ulikenet/cloud-guardrails
-- Tags: Cloud, IaC, OPA
-
-## Writeup Generator CLI
-CLI that scaffolds a new writeup/blog from templates with front matter and sections.
-
-- Code: https://github.com/ulikenet/writeup-cli
-- Tags: DevSecOps, Docs, CLI
+- [Red-Team PowerShell Toolkit](/projects/red-team-powershell-toolkit)
+- [Cloud Guardrails IaC](/projects/cloud-guardrails-iac)
+- [Writeup Generator CLI](/projects/writeup-generator-cli)
