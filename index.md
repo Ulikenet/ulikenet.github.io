@@ -5,9 +5,10 @@ layout: default
 
 # 👋 Welcome to Ulikenet's Portfolio
 
-Everything in one place with **blue, underlined links** and **bigger text**.
+Explore my portfolio of projects, writeups, and research — all presented in a **minimal, accessible, and professional** format.
 
 - [Writeups](/writeups/)
 - [Blogs](/blogs/)
 - [Projects](/projects/)
 - [About](/about)
+
