@@ -18,4 +18,4 @@ layout: default
 - **Backfire** — [/writeups/backfire](/writeups/backfire)
 - **RopeTwo** — [/writeups/ropetwo](/writeups/ropetwo)
 - **Agent Sudo** — [/writeups/agentsudo](/writeups/agentsudo)
-- **Summit** — [/writeups/Summit](/writeups/summit)
+
